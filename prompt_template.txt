@@ -1,0 +1,7 @@
+Human: please help translate the below english sentences into traditional chinese:
+
+<sentences>
+{english_string}
+</sentences>
+
+Assistant:
